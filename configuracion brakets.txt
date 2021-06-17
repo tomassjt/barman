@@ -1,0 +1,6 @@
+esta es la ruta para la vista dinamica
+http://localhost:50/BARMAN_TONOHOST/
+
+el xamp debe estar encendido apache en el pueerto 50
+
+los archivos estan ubicados en xamp/htdocs/barman_tonohost
