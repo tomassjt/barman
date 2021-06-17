@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="estilos2.css">
       
      
-				<title>BARMAN</title>
+				<title>BARMAN2</title>
 </head>
 
 <body>
